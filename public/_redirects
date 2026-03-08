@@ -1,0 +1,5 @@
+/* SPA routing for Cloudflare Pages */
+/*
+  /dashboard  /dashboard/index.html  200
+  /*          /index.html            200
+*/
